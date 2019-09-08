@@ -1,0 +1,3 @@
+[registry]
+index = "git://mirrors.ustc.edu.cn/crates.io-index"
+
